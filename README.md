@@ -17,8 +17,8 @@ QNA Chatbot is a Streamlit-based application that uses Google's Gemini LLM to an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/qna-chatbot.git
-   cd qna-chatbot
+   git clone https://github.com/Likithsatya192/Gemini-qna-chatbot.git
+   cd Gemini-qna-chatbot
    ```
 
 2. Install `uv` if not already installed:
