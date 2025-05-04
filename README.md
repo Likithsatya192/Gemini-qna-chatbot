@@ -29,6 +29,7 @@ QNA Chatbot is a Streamlit-based application that uses Google's Gemini LLM to an
 3. Create and activate the environment:
    ```bash
    uv venv
+   source .venv/bin/activate
    ```
 
 4. Install the required dependencies:
